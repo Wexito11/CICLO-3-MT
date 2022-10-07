@@ -1,7 +1,4 @@
 //EVENTOS O FUNCIONALIDADES PARA TABLA GASTOS
-function prueba(){
-	
-}
 
 //Funcion limpiar campos del formulario
 
